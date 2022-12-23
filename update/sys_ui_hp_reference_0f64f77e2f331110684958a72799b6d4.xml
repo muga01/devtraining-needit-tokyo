@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_hp_reference">
+    <sys_ui_hp_reference action="INSERT_OR_UPDATE">
+        <publisher_reference display_value="Source">1e827bfa2f331110684958a72799b6c9</publisher_reference>
+        <reference_field>assignment_group.label_entry</reference_field>
+        <reference_table>incident</reference_table>
+        <sys_class_name>sys_ui_hp_reference</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-20 08:43:45</sys_created_on>
+        <sys_id>0f64f77e2f331110684958a72799b6d4</sys_id>
+        <sys_name>1e827bfa2f331110684958a72799b6c9</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_hp_reference_0f64f77e2f331110684958a72799b6d4</sys_update_name>
+    </sys_ui_hp_reference>
+</record_update>

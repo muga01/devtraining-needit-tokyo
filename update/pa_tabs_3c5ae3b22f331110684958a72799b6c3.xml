@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="PA Incidents by Group T - New Tab">6c5a2f722f331110684958a72799b675</canvas_page>
+        <name>Incidents by Group T - New Tab</name>
+        <page display_value="PA Incidents by Group T - New Tab">205a2f722f331110684958a72799b674</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-20 07:56:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3c5ae3b22f331110684958a72799b6c3</sys_id>
+        <sys_name>Incidents by Group T - New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_tabs_3c5ae3b22f331110684958a72799b6c3</sys_update_name>
+    </pa_tabs>
+</record_update>
